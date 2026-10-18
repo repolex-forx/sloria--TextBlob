@@ -1,0 +1,11 @@
+{
+  "org": "sloria",
+  "repo": "TextBlob",
+  "versions": [
+    {
+      "commit": "0db22cb986351490aa501d5f7f36e8c39a5d22d8",
+      "tag": "",
+      "parsed_at": "2026-10-18T08:56:07.143511+00:00"
+    }
+  ]
+}
