@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sloria/TextBlob/commit/0db22cb986351490aa501d5f7f36e8c39a5d22d8",
       "git:hexsha": "0db22cb986351490aa501d5f7f36e8c39a5d22d8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sloria/TextBlob/commit/c375430634706a48623bbd9b0c94b552d3f28ea9",
